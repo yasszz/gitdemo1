@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hi my name is yasin
 cavli
 wireless
+hii
+2nd
 
+=======
+hi my name is yasin
+>>>>>>> parent of 5e3f96d (1st branch commit)
